@@ -129,7 +129,13 @@
 
 ## مثال داده ها: چند رکورد نمونه برای جدول
 
+دستور زیر را اجرا می کنیم تا نمونه ای از رکورد های جدول را ببنیم:
 
+<code>SELECT TOP (10) [city]
+      ,[latitude] ,[longitude] ,[month] ,[year] ,[rainfall] ,[elevation] ,[Climate_Type]
+  FROM [Rainfall].[dbo].[rainfall_data]
+<code/>
+<img width="885" height="228" alt="top10" src="https://github.com/user-attachments/assets/e9bae04b-50e4-49f1-af2a-87df8dd6092b" />
 
 
 
