@@ -91,7 +91,7 @@
 
 2) بر روی دیتابیس ایجاد شده، کلیک راست می کنیم و از منوی باز شده به قسمت Tasks رفته و گزینه   Import Flat Fileرا انتخاب می کنیم:
 
-Tasks → Import Flat File
+**Tasks → Import Flat File**
 
 
 <img width="443" height="467" alt="image" src="https://github.com/user-attachments/assets/3549d609-c41f-495c-97a6-fcd8fbba5759" />
@@ -114,19 +114,16 @@ Tasks → Import Flat File
 
 <img width="487" height="189" alt="image" src="https://github.com/user-attachments/assets/e1cd469d-ef85-4308-83b6-35c2505a319a" />
 
+6) در مراحل بعدی هم یک خلاصه و نتایج نشان می دهد و با زدن Finish اگر result به صورت Success باشد یعنی همه مراحل با موفقیت انجام شده اند:
 
- 6) در مراحل بعدی هم یک خلاصه و نتایج نشان می دهد و با زدن Finish اگر result به صورت Success باشد یعنی همه مراحل با موفقیت انجام شده اند:
+<img width="493" height="176" alt="image" src="https://github.com/user-attachments/assets/ae77a550-da10-4847-92d3-c6c4c6a17f25" />
 
-    <img width="493" height="176" alt="image" src="https://github.com/user-attachments/assets/ae77a550-da10-4847-92d3-c6c4c6a17f25" />
-
-    با انتخاب close از این تب خارج می شویم.
-
+   با انتخاب close از این تب خارج می شویم.
 
 
 7) با زدن گزینه Refresh بر روی فولدر Tables، مشاهده می کنیم که دیتاست اضافه شده است:
 
    
-
 <img width="330" height="336" alt="image" src="https://github.com/user-attachments/assets/f022cd00-cb7d-4268-9145-9f193731f886" />
 
 
