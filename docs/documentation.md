@@ -85,7 +85,8 @@
 1) ابتدا SQL Server را باز می کنیم. سپس با استفاده از کوئری، یک دیتابیس جدید به نام Rainfall ایجاد می کنیم:
 
 
-<img width="473" height="228" alt="image" src="https://github.com/user-attachments/assets/445daede-3c3d-4383-a046-38a7baef4d29" />
+<img width="473" height="228" alt="image" src="https://github.com/user-attachments/assets/445daede-3c3d-4383-a046-38a7baef4d29"  style="display: block; margin: 0 auto;"/>
+
 
 
 2) بر روی دیتابیس ایجاد شده، کلیک راست می کنیم و از منوی باز شده به قسمت Tasks رفته و گزینه   Import Flat Fileرا انتخاب می کنیم:
