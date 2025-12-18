@@ -83,30 +83,34 @@
 به این منظور، برای باز کردن فایل .csv دیتاست در محیط SSMS مراحل زیر را دنبال می کنیم:
 
 1) ابتدا SQL Server را باز می کنیم. سپس با استفاده از کوئری، یک دیتابیس جدید به نام Rainfall ایجاد می کنیم:
-<br/>
+
+
 <img width="473" height="228" alt="image" src="https://github.com/user-attachments/assets/445daede-3c3d-4383-a046-38a7baef4d29" />
-<br/>
-<br/>
+
+
 2) بر روی دیتابیس ایجاد شده، کلیک راست می کنیم و از منوی باز شده به قسمت Tasks رفته و گزینه   Import Flat Fileرا انتخاب می کنیم:
-<br/>
+
 Tasks → Import Flat File
-<br/>
+
+
 <img width="443" height="467" alt="image" src="https://github.com/user-attachments/assets/3549d609-c41f-495c-97a6-fcd8fbba5759" />
-<br/>
-<br/>
+
+
 3) در تب باز شده ابتدا گزینه Next را می زنیم و در مرحله بعدی با زدن گزینه Browse… فایل مورد نظر را پیدا کرده و با گزینه Open را می زنیم:
-<br/>
+
 <img width="481" height="361" alt="image" src="https://github.com/user-attachments/assets/7095fd9a-c236-4e83-a3ab-9ebbde2842df" />
-<br/>
+
+
 و گزینه Next را انتخاب کرده و به مرحله بعد می رویم.
-<br/><br/>
+
+
 4) در این مرحله (Preview Data) یک نمای کلی از جدول به ما نشان می دهد. باز هم Next را می زنیم:
-<br/>
+
 <img width="482" height="342" alt="image" src="https://github.com/user-attachments/assets/8dbfb191-e6eb-4857-9a41-c1be05c4f013" />
-<br/>
-<br/>
+
+
 5) در مرحله Modify Columns، ستون ها را نشان می دهد که می توانیم تغییرات بر روی آنها اعمال کنیم. برای مثال می توانیم یک ستون را کلید اصلی قرار بدهیم. ولی در حال حاضر قصد ایجاد تغییرات را نداریم و با زدن Next به مرحله بعد می رویم:
-<br/>
+
 <img width="487" height="189" alt="image" src="https://github.com/user-attachments/assets/e1cd469d-ef85-4308-83b6-35c2505a319a" />
 
 
