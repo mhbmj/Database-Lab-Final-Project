@@ -67,7 +67,7 @@ https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 11- اتصال به سرور و ایجاد یک دیتابیس:
 در این مرحله، محیط SQL Server Management Studio (SSMS) را باز کرده و وارد صفحه‌ی Connect to Server می‌ شویم. در قسمت Server name، نام سرور لوکال سیستم به‌ صورت خودکار شناسایی می شود و به آن متصل و و وارد محیط مدیریت پایگاه داده می شویم.
 
-<img width="430" height="524" alt="image" src="https://github.com/user-attachments/assets/e20d1d6b-2067-48df-bf85-52ef017a0164" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/e20d1d6b-2067-48df-bf85-52ef017a0164" />
 
 
 با زدن گزینه Connect وارد محیط SQL Server می شویم و می توانیم یک دیتابیس جدید بسازیم یا یک دیتابیس را import کنیم و کوئری های مختلفی بر آن ها اجرا کنیم.
