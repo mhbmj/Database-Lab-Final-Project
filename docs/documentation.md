@@ -96,5 +96,5 @@
 
 ## 3. نمودار ERD در SQL Server
 
-<img width="806" height="585" alt="4" src="https://github.com/user-attachments/assets/b2e87264-f5b1-4588-9459-e04aa8337c95" />
+<img width="500" height="400" alt="4" src="https://github.com/user-attachments/assets/b2e87264-f5b1-4588-9459-e04aa8337c95" />
 
