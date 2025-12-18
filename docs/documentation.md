@@ -127,6 +127,8 @@
 <img width="330" height="336" alt="image" src="https://github.com/user-attachments/assets/f022cd00-cb7d-4268-9145-9f193731f886" />
 
 
+## مثال داده ها: چند رکورد نمونه برای جدول
+
 
 
 
