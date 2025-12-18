@@ -98,3 +98,20 @@
 
 <img width="500" height="400" alt="4" src="https://github.com/user-attachments/assets/b2e87264-f5b1-4588-9459-e04aa8337c95" />
 
+
+## 4. مراحل نصب در فولدر `InstallationGuids` قرار دارد.
+
+## 5. مثال دادهها :چند رکورد نمونه برای هر جدول
+1- انتخاب رکورد هایی از جدول `City` که مربوط به شهر های اهواز و تهران است:
+
+<img width="500" height="300" alt="5-1" src="https://github.com/user-attachments/assets/2be6d5ab-ab94-4984-95a2-b594bf31becb" />
+
+
+2- رکورد هایی از جدول `Rainfall` که مربوط به ماه April در سال 2010 می باشند:
+
+<img width="500" height="450" alt="5-2" src="https://github.com/user-attachments/assets/13f20c09-638d-47b6-bcbb-16bea708304d" />
+
+3- همه رکورد های از جدول `Climate` :
+
+<img width="500" height="300" alt="5-3" src="https://github.com/user-attachments/assets/0916e6b7-b056-4604-8f2c-b55b280153e5" />
+
