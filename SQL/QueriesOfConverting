@@ -1,0 +1,28 @@
+---Create table fo City
+
+CREATE TABLE City (
+    CityID INT IDENTITY(1,1) PRIMARY KEY,
+    CityName NVARCHAR(100),
+    Latitude FLOAT,
+    Longitude FLOAT,
+    ClimateType NVARCHAR(50)
+);
+
+---Create table fo Rainfall 
+
+CREATE TABLE Rainfall (
+    RainfallID INT IDENTITY(1,1) PRIMARY KEY,
+    CityID INT FOREIGN KEY REFERENCES City(CityID),
+    year INT,
+    month INT,
+    rainfall FLOAT,
+    elevation FLOAT
+);
+
+---CREATE TABLE Climate 
+
+CREATE TABLE Climate (
+    ClimateID INT IDENTITY(1,1) PRIMARY KEY,
+    Climate_Type NVARCHAR(50)
+);
+
