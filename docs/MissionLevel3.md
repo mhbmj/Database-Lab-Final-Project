@@ -15,4 +15,4 @@
 
 نتایج:
 
-<img width="500" height="510" alt="L3-1" src="https://github.com/user-attachments/assets/ba29be1a-10c7-42cb-9999-f97ce9b59d46" />
+<img width="500" height="600" alt="L3-1" src="https://github.com/user-attachments/assets/ad2cca73-211a-4f97-b18a-a599d280dccc" />
