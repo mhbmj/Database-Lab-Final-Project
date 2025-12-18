@@ -1,1 +1,1 @@
-# Database-Lab-Final-Project
+# این پوشه شامل عکس های مرحله به مرحله import کردن دیتابیس در محیط SSMS است.
