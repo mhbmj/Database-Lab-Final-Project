@@ -21,7 +21,7 @@ Create table for Rainfall
         elevation FLOAT
     );
 
-CREATE TABLE for Climate 
+Create table for Climate 
 
     CREATE TABLE Climate (
         ClimateID INT IDENTITY(1,1) PRIMARY KEY,
