@@ -112,7 +112,7 @@
 
   نتیجه اجرا در SQL Server:
 
-<img width="437" height="225" alt="L3-3" src="https://github.com/user-attachments/assets/2a0e0fd2-6566-41ca-9cbb-2fc249441174" />
+<img width="486" height="356" alt="L3-4" src="https://github.com/user-attachments/assets/e77fd805-ec19-43a9-aff0-586ef5909148" />
 
 **نتایج به دست آمده:**
 
