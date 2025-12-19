@@ -1,0 +1,3 @@
+SELECT * FROM City
+SELECT * FROM Rainfall
+SELECT * FROM Climate
