@@ -1,6 +1,6 @@
 # 1) Creating new tables
 
-Create table fo City
+Create table for City
 
     CREATE TABLE City (
         CityID INT IDENTITY(1,1) PRIMARY KEY,
@@ -10,7 +10,7 @@ Create table fo City
         ClimateID INT FOREIGN KEY REFERENCES Climate(ClimateID)
     );
 
-Create table fo Rainfall 
+Create table for Rainfall 
 
     CREATE TABLE Rainfall (
         RainfallID INT IDENTITY(1,1) PRIMARY KEY,
@@ -21,7 +21,7 @@ Create table fo Rainfall
         elevation FLOAT
     );
 
-CREATE TABLE Climate 
+CREATE TABLE for Climate 
 
     CREATE TABLE Climate (
         ClimateID INT IDENTITY(1,1) PRIMARY KEY,
