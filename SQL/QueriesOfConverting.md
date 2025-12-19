@@ -32,7 +32,7 @@ Create table for Climate
 
 # 2) Inserting data from table rainfall_data
 
-Insert into table fo City
+Insert into table City
 
     INSERT INTO City (CityName, Latitude, Longitude, ClimateID)
     SELECT R.City, R.Latitude, R.Longitude, c.ClimateID
@@ -41,7 +41,7 @@ Insert into table fo City
     GROUP BY R.City, R.Latitude, R.Longitude, c.ClimateID;
 
 
-Insert into table fo City Rainfall
+Insert into table Rainfall
 
     INSERT INTO Rainfall
     SELECT c.CityID, R.Year, R.Month, R.Rainfall, R.elevation
@@ -49,7 +49,7 @@ Insert into table fo City Rainfall
     JOIN City c ON R.City = c.CityName;
 
 
-Insert into table fo City Climate
+Insert into table Climate
 
     INSERT INTO Climate (Climate_Type)
     SELECT DISTINCT Climate_Type
