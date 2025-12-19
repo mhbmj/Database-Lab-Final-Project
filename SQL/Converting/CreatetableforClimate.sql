@@ -1,1 +1,4 @@
-
+CREATE TABLE Climate (
+    ClimateID INT IDENTITY(1,1) PRIMARY KEY,
+    Climate_Type NVARCHAR(50) UNIQUE
+);
